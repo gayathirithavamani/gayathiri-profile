@@ -53,9 +53,9 @@ function Home() {
               </a> */}
               {/* <a target="_blank" href=""><i class="fa-brands fa-instagram"></i></a> */}
 
-              <a href="#">
+              {/* <a href="#">
                 <i class="fas fa-download"></i>
-              </a>
+              </a> */}
             </div>
           </div>
           <div class=" col-lg-6 col-md-5 col-sm-8 pt-5">{View}</div>
